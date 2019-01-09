@@ -11,16 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/april9288/repairion.git"
   },
-  "author": "",
+  "author": "James Jongho Kim",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/april9288/repairion/issues"
   },
   "homepage": "https://april9288.github.io/repairion",
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "^1.18.9"
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.4"
   }
 }
