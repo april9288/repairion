@@ -1,8 +1,8 @@
 {
   "name": "repairion",
-  "version": "1.0.0",
-  "description": "materialize framework project, a simple template website introducing company",
+  "version": "1.0.1",
   "main": "index.html",
+  "homepage": "https://april9288.github.io/repairion",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -10,17 +10,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/april9288/repairion.git"
-  },
-  "author": "James Jongho Kim",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/april9288/repairion/issues"
-  },
-  "homepage": "https://april9288.github.io/repairion",
-  "devDependencies": {
-    "nodemon": "^1.18.9"
-  },
-  "dependencies": {
-    "express": "^4.16.4"
   }
 }
